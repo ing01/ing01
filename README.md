@@ -4,8 +4,8 @@
 
 ## About me:
 
-### Age:19 years old.
+### Age: 19 years old.
 ### City: Presidente Prudente, São Paulo.
-### [Knowledges] Python, HTML and CSS.
+### [Knowledges]: Python, HTML and CSS.
 
 > My repositories have my studys of college, lists of exercises and researches.
