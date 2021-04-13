@@ -1,4 +1,4 @@
-# Hello, Ingrid here!🇧🇷 👋
+# Hello, Ingrid here! 👋
 
 🎓 I am a Brazillian student of Systems Analysis and Development, actually in second half. My plans includes making lives on twitch.tv in a distant future. I try to be my best everyday and a i love learn others technologies. 
 > Welcome to my github, feel free to contact me!
