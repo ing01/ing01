@@ -9,4 +9,4 @@ My plans include being part of the development of a game in the future, it's a p
 
 * **Age** - 19 years old.
 * **City** - Presidente Prudente, São Paulo, Brazil.
-* **Knowledges** - Python, HTML, CSS and JavaScript (basic).
+* **Knowledges** - Python, HTML, CSS, JavaScript (basic) and learning C#.
