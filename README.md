@@ -24,20 +24,21 @@ My plans include being part of the development of a game in the future, it's a p
 <a href="https://github.com/ing01">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
+<!--
+![Ingrid's github stats](https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&hide_border=true)
+-->
 
 <br>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
 <br>
-
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px"> Connect with me!
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ingrid-bernardi-24244b1b7/)  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ingribpilla@gmail.com)
 |:---:|:---:|
-
 
 <br>
