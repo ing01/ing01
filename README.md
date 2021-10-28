@@ -4,6 +4,8 @@
 My plans include being part of the development of a game in the future, it's a personal dream. I try to be my best everyday and i love learn others technologies. (Secret: i love front-end)
 > My repositories have my studys of college, lists of exercises and researches.
 
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
 ## About me:
 
 * **Age** - 20 years old.
@@ -21,8 +23,9 @@ My plans include being part of the development of a game in the future, it's a p
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
-
 <br>
+
+<img align="right" alt="HMM" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="190" />
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
