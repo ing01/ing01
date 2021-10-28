@@ -22,7 +22,7 @@ My plans include being part of the development of a game in the future, it's a p
 </a>
 
 <a href="https://github.com/ing01">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Ingrid's github stats"/>
 </a>
 
 
