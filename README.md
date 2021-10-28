@@ -10,25 +10,23 @@ My plans include being part of the development of a game in the future, it's a p
 * **City** - Presidente Prudente, São Paulo, Brazil.
 * **Knowledges** - Python, HTML, CSS and learning C#, SQL and JavaScript.
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
 ## Language and Tools:
 <br>
 
-<a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDudeThatCode&theme=dark&hide_langs_below=1" />
+<a href="https://github.com/ing01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ing01&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/TheDudeThatCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
 <a href="https://github.com/TheDudeThatCode/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=TheDudeThatCode&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ing01&repo=TheDudeThatCode&theme=dark" />
 </a>
 
 <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ing01&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
 <br>
@@ -36,7 +34,7 @@ My plans include being part of the development of a game in the future, it's a p
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ingrid-bernardi-24244b1b7/)  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ingribpilla@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|
 
 
 <br>
