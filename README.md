@@ -27,6 +27,12 @@ My plans include being part of the development of a game in the future, it's a p
 
 <br>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="900">
+
+<br>
+
+<br>
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="40px"> Connect with me!
 
