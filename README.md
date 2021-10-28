@@ -21,13 +21,6 @@ My plans include being part of the development of a game in the future, it's a p
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
-<a href="https://github.com/ing01/ing01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ing01&repo=TheDudeThatCode&theme=dark" />
-</a>
-
-<a href="https://github.com/ing01/Fun-with-DS-and-Algo">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ing01&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a>
 
 <br>
 
