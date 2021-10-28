@@ -28,7 +28,7 @@ My plans include being part of the development of a game in the future, it's a p
 
 <br>
 
-### Have Fun!
+### Have fun and get vaccinated! 🐊
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
