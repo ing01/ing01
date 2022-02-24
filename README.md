@@ -2,7 +2,7 @@
 
 # Hello, Ingrid here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-🎓 I am a Brazillian student of Systems Analysis and Development, actually in third half. 
+🎓 I am a Brazillian student of Systems Analysis and Development, actually in fourth half. 
 My plans include being part of the development of a game in the future, it's a personal dream. I try to be my best everyday and i love learn others technologies. **(Secret: i love front-end)**
 > My repositories have my studys of college, lists of exercises and researches.
 
