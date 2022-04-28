@@ -11,7 +11,7 @@ My plans include being part of the development of a game in the future, it's a p
 
 * **Age** - 20 years old. 🤘🏻
 * **City** - Presidente Prudente, São Paulo, Brazil. 🇧🇷
-* **Knowledges** - Python, HTML, CSS and learning C#, SQL and JavaScript. 👩‍💻
+* **Knowledges** - Python, HTML, CSS and learning C#, SQL, PHP and JavaScript. 👩‍💻
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="40px"> Language and Tools:
