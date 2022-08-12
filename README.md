@@ -9,7 +9,7 @@ Planejo fazer parte do desenvolvimento de um jogo, algum dia, é um sonho pessoa
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="40px" /> About me:
 
-* **Idade** - 20 years old. 🤘🏻
+* **Idade** - 20 anos. 🤘🏻
 * **Cidade** - Presidente Prudente, São Paulo, Brasil. 🇧🇷
 * **Conhecimentos** - Python, HTML, CSS and learning C#, SQL, PHP and JavaScript. 👩‍💻
 
