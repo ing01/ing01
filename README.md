@@ -13,19 +13,6 @@ Planejo fazer parte do desenvolvimento de um jogo, algum dia, é um sonho pessoa
 * **Cidade** - Presidente Prudente, São Paulo, Brasil. 🇧🇷
 * **Conhecimentos** - Python, HTML, CSS and learning C#, SQL, PHP and JavaScript. 👩‍💻
 
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="40px"> Linguagens:
-<br>
-
-<a href="https://github.com/ing01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ing01&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/ing01">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ing01&show_icons=true&theme=dark&line_height=27" alt="Ingrid's github stats"/>
-</a>
-
-
 <br>
 
 ### Seja bem-vindo! Vacine-se! 🐊
