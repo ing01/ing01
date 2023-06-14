@@ -2,8 +2,8 @@
 
 # Oi, aqui é a Ingrid! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-🎓 Estudante brasileira de Análise e Desenvolvimento de Sistemas, no último termo.
-Planejo cursar Jogos Digitais no futuro, é um sonho pessoal. Adoro desenvolvimento!
+🎓 Formada em Análise e Desenvolvimento de Sistemas.
+Meu sonho é desenvolver um jogo no futuro. Adoro desenvolvimento!
 > Meus repositórios estão abastecidos de estudos da faculdade e pesquisas pessoais realizadas. Sinta-se livre para explorar!
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="40px" /> Sobre mim:
