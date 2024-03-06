@@ -2,13 +2,13 @@
 
 # Oi, aqui é a Ingrid! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas.
+🎓 Formada em Análise e Desenvolvimento de Sistemas e realizando uma pós-graduação em Engenharia da Computação.
 Meu sonho é desenvolver um jogo no futuro. Adoro desenvolvimento!
 > Meus repositórios estão abastecidos de estudos da faculdade e pesquisas pessoais realizadas. Sinta-se livre para explorar!
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="40px" /> Sobre mim:
 
-* **Idade** - 21 anos. 🤘🏻
+* **Idade** - 22 anos. 🤘🏻
 * **Cidade** - Presidente Prudente, São Paulo, Brasil. 🇧🇷
 > Sempre estudando algo diferente. 👩‍💻
 
