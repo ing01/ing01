@@ -2,14 +2,15 @@
 
 # Oi, aqui é a Ingrid! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Engenharia da Computação. Meu objetivo profissional é o desenvolvimento de jogos voltados para entretenimento e educação.
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas e pós-graduada em Engenharia da Computação. Meu objetivo profissional é o desenvolvimento de jogos voltados para entretenimento e educação.
 > Meus repositórios estão abastecidos de estudos da faculdade e pesquisas pessoais realizadas. Sinta-se livre para explorar!
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="40px" /> Sobre mim:
 
 * **Idade** - 23 anos. 🤘🏻
 * **Cidade** - Presidente Prudente, São Paulo, Brasil. 🇧🇷
-> Atualmente estudando o projeto de sites e cursos de extensão voltados à área de tecnologia. 👩‍💻
+  
+  *Sempre buscando me aprofundar nas tecnologias.* 👩‍💻
 
 ### Seja bem-vindo!
 
