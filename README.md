@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/hmm.gif" width="40px" /> Sobre mim:
 
-* **Idade** - 23 anos. 🤘🏻
+* **Idade** - 24 anos. 🤘🏻
 * **Cidade** - Presidente Prudente, São Paulo, Brasil. 🇧🇷
   
   *Sempre buscando me aprofundar nas tecnologias.* 👩‍💻
