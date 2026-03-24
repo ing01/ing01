@@ -17,13 +17,13 @@ Sinta-se livre para explorar, aprender e contribuir! 🚀
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
-![Python](<img src="./Assets/python.png" width="30")
-![Javascript](<img src="Assets/js.webp" width="30")
-![PHP](<img src="Assets/php.png" width="30")
+![Python]( <img src="./Assets/python.png" width="30" /> )
+![Javascript]( <img src="Assets/js.webp" width="30" /> )
+![PHP]( <img src="Assets/php.png" width="30" /> )
 
 ### Frameworks
-![Tailwind](<img src="Assets/tailwind.svg" width="30")
-![React](<img src="Assets/react.png" width="30")
+![Tailwind]( <img src="Assets/tailwind.svg" width="30" /> )
+![React]( <img src="Assets/react.png" width="30" /> )
 
 ## 📊 Estatísticas GitHub
 
