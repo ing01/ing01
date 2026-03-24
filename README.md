@@ -8,22 +8,22 @@ Sou formada em Análise e Desenvolvimento de Sistemas com especialização em En
 → Meus repositórios contêm projetos acadêmicos, estudos de tecnologias e pesquisas pessoais. 
 Sinta-se livre para explorar, aprender e contribuir! 🚀
 
-## 👨‍💻 Sobre mim
-
-- **Idade:** 24 anos 🤘🏻
 - **Localização:** Presidente Prudente, São Paulo, Brasil 🇧🇷
 - **Foco:** Game Development & Engenharia de Software
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
-Python (<img src="./Assets/python.png" width="15" />)
-Javascript (<img src="Assets/js.webp" width="15" />)
-PHP (<img src="Assets/php.png" width="15" />)
+→ Python (<img src="./Assets/python.png" width="15" />)
+
+→ Javascript (<img src="Assets/js.webp" width="15" />)
+
+→ PHP (<img src="Assets/php.png" width="15" />)
 
 ### Frameworks
-Tailwind (<img src="Assets/tailwind.svg" width="15" />)
-React (<img src="Assets/react.png" width="15" />)
+→  Tailwind (<img src="Assets/tailwind.svg" width="15" />)
+
+→  React (<img src="Assets/react.png" width="15" />)
 
 ## 📊 Estatísticas GitHub
 
