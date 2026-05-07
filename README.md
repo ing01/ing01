@@ -2,8 +2,8 @@
 
 # Oi, aqui é a Ingrid! 👋
 
-Desenvolvedora com foco, no futuro, **desenvolvimento de jogos** para entretenimento e educação. 
-Sou formada em Análise e Desenvolvimento de Sistemas com especialização em Engenharia da Computação.
+Sou uma desenvolvedora com foco, no futuro, **desenvolvimento de jogos** para entretenimento e educação. 
+Me formei em Análise e Desenvolvimento de Sistemas com especialização em Engenharia da Computação.
 
 → Meus repositórios contêm projetos acadêmicos, estudos de tecnologias e pesquisas pessoais. 
 Sinta-se livre para explorar, aprender e contribuir! 🚀
@@ -13,9 +13,7 @@ Sinta-se livre para explorar, aprender e contribuir! 🚀
 ### Linguagens
 → Python (<img src="./Assets/python.png" width="15" />)
 
-→ Javascript (<img src="Assets/js.webp" width="15" />)
-
-→ PHP (<img src="Assets/php.png" width="15" />)
+→ Javascript (<img src="Assets/js.webp" width="15" />))
 
 ### Frameworks
 →  Tailwind (<img src="Assets/tailwind.svg" width="15" />)
