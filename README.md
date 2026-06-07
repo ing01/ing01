@@ -2,27 +2,23 @@
 
 # Oi, aqui é a Ingrid! 👋
 
-Sou uma desenvolvedora com foco, no futuro, **desenvolvimento de jogos** para entretenimento e educação. 
-Me formei em Análise e Desenvolvimento de Sistemas com especialização em Engenharia da Computação.
+Desenvolvedora brasileira com foco, no futuro, **desenvolvimento de jogos** para entretenimento e educação. 
+Sou formada em Análise e Desenvolvimento de Sistemas com especialização em Engenharia da Computação.
+
+Atuando como analista e estudando o desenvolvimento de ERP!
 
 → Meus repositórios contêm projetos acadêmicos, estudos de tecnologias e pesquisas pessoais. 
 Sinta-se livre para explorar, aprender e contribuir! 🚀
 
-## 🛠️ Tecnologias & Ferramentas
+<img align="right" alt= "KITTY PASTA" src="./Assets/kitty_folder.png" width="190" />
+
+## 💡 Tecnologias Principais
 
 ### Linguagens
-→ Python (<img src="./Assets/python.png" width="15" />)
-
-→ Javascript (<img src="Assets/js.webp" width="15" />))
+→ Python
+→ Javascript
+→ PHP
 
 ### Frameworks
-→  Tailwind (<img src="Assets/tailwind.svg" width="15" />)
-
-→  React (<img src="Assets/react.png" width="15" />)
-
-## 📊 Estatísticas GitHub
-
-<a href="https://github.com/ing01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ing01&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ing01&layout=compact&langs_count=7&theme=dark" />
-</a>
+→  Tailwind
+→  React
