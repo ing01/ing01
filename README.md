@@ -4,6 +4,7 @@
 
 Desenvolvedora brasileira com foco, no futuro, **desenvolvimento de jogos** para entretenimento e educação. 
 Sou formada em Análise e Desenvolvimento de Sistemas com especialização em Engenharia da Computação.
+Atualmente estou cursando Jogos Digitais!
 
 Atuando como analista e estudando o desenvolvimento de ERP!
 
@@ -17,8 +18,10 @@ Sinta-se livre para explorar, aprender e contribuir! 🚀
 ### Linguagens
 → Python
 → Javascript
-→ PHP
+→ C#
+→ Visual Basic
 
 ### Frameworks
 →  Tailwind
 →  React
+→ Flutter
