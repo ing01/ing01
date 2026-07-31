@@ -16,12 +16,12 @@ Sinta-se livre para explorar, aprender e contribuir! 🚀
 ## 💡 Tecnologias Principais
 
 ### Linguagens
-→ Python
-→ Javascript
-→ C#
+→ Python <br>
+→ Javascript <br>
+→ C# <br>
 → Visual Basic
 
 ### Frameworks
-→  Tailwind
-→  React
+→ Tailwind <br>
+→ React <br>
 → Flutter
