@@ -2,7 +2,7 @@
 
 # Oi, aqui é a Ingrid! 👋
 
-Líder técnica da Novalis Agro. → https://app.novalisagro.com.br/ <br>
+Líder técnica da Novalis Agro. → [https://site.novalisagro.com.br/] <br>
 Desenvolvedora brasileira com foco, no futuro, **desenvolvimento de jogos** para entretenimento e educação. <br>
 Sou formada em Análise e Desenvolvimento de Sistemas com especialização em Engenharia da Computação. <br>
 Graduando em Jogos Digitais pela Cruzeiro do Sul.
