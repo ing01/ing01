@@ -45,18 +45,6 @@ Meus repositórios contêm projetos acadêmicos, estudos de tech, pesquisas pess
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario_aqui&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario_aqui&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Vamos Conectar?
 
 - 📧 **Email:** [ingridbpilla@gmail.com]
