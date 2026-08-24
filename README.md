@@ -2,7 +2,7 @@
 
 # Oi! Aqui é a Ingrid 👋
 
-**Líder Técnica** @ [Novalis Agro](https://site.novalisagro.com.br/) | Aspirante a Game Dev  | Tech Explorer 🎮
+**Líder Técnica** → [Novalis Agro](https://www.novalisagro.com.br/) | Aspirante a Game Dev  | Tech Explorer 🎮
 
 Desenvolvedora brasileira apaixonada por criar soluções escaláveis, jogos imersivos e contribuir para o futuro do agro com IA. Quando não estou codando, estou explorando novas technologias.
 
@@ -10,7 +10,7 @@ Desenvolvedora brasileira apaixonada por criar soluções escaláveis, jogos ime
 
 ## 🎯 Sobre Mim
 
-- 🏢 **Atualmente:** Liderança técnica @ [Novalis Agro](https://site.novalisagro.com.br/) (SaaS Agro + IA Preditiva)
+- 🏢 **Atualmente:** Liderança técnica → [Novalis Agro](https://www.novalisagro.com.br/) (SaaS Agro + IA Preditiva)
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas + Especialização em Engenharia da Computação + Graduanda em Jogos Digitais (Cruzeiro do Sul)
 - 💼 **Também:** Analista de Suporte/Implantação @ Duesoft
 - 🎮 **Objetivo futuro:** Desenvolvimento de jogos para entretenimento e educação
@@ -41,7 +41,7 @@ Meus repositórios contêm projetos acadêmicos, estudos de tech, pesquisas pess
 
 ## 🎯 Projeto em Destaque
 
-- **[Novalis Agro](https://site.novalisagro.com.br/)** - Plataforma SaaS de gestão agrícola e pecuária com IA preditiva | Django + React + IA
+- **[Novalis Agro](https://www.novalisagro.com.br/)** - Plataforma SaaS de gestão agrícola e pecuária com IA preditiva | Django + React + IA
 
 ---
 
